@@ -1,0 +1,9 @@
+.header__lang-link_active::before {
+    position: absolute;
+    content: '';
+    height: 2px;
+    left: 0%;
+    right: 0%;
+    bottom: -2px;
+    background-color: #fff;
+}

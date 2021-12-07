@@ -1,0 +1,6 @@
+.content {
+    margin: 0;
+    display: grid;
+    grid-gap: 92px;
+    justify-content: center;
+    }
