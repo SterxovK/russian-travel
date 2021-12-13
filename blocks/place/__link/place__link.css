@@ -4,7 +4,3 @@
     line-height: 22px;
     position: relative;
 }
-
-.place__link:hover {
-    opacity: .5;
-}

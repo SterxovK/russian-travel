@@ -12,9 +12,7 @@
     .place {
         max-width: 928px;
         grid-template-columns: 440px 456px;
-        grid-template-rows: auto;
         grid-column-gap: 32px;
-        grid-row-gap: 48px;
     }  
 }
 
@@ -22,16 +20,13 @@
     .place {
         max-width: 720px;
         grid-template-columns: 340px 352px;
-        grid-template-rows: auto;
         grid-column-gap: 28px;
-        grid-row-gap: 48px;
     }  
 }
 
 @media screen and (max-width:767px){
     .place {
         grid-template-columns: 320px;
-        grid-template-rows: auto;
         grid-row-gap: 32px;
     }
 }

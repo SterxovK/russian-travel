@@ -3,4 +3,16 @@
     display: grid;
     grid-gap: 92px;
     justify-content: center;
+}
+
+@media screen and (max-width:960px){
+    .content {
+        grid-gap: 88px;
     }
+}
+
+@media screen and (max-width:550px){
+    .content {
+        grid-gap: 64px;
+    }
+}

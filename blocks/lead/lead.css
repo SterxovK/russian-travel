@@ -5,3 +5,9 @@
     align-items: center;
     justify-self: center;
 }
+
+@media screen and (max-width:1150px) {
+    .lead {
+        max-width: 928px;
+    }   
+}
